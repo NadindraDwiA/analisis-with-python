@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load your dataset into a DataFrame
-data = pd.read_csv('/dataset/all_data.csv')  # Replace 'your_data.csv' with the actual file path if it's a CSV file
+data = pd.read_csv('D:/Dashboard/dataset/all_data.csv')  # Replace with the actual file path if it's a CSV file
 
 # Convert 'order_purchase_timestamp' to a datetime object
 data['order_purchase_timestamp'] = pd.to_datetime(data['order_purchase_timestamp'])
