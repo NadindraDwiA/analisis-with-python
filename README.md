@@ -30,8 +30,8 @@ pip install -r requirements.txt
 Masuk ke direktori proyek (Local):
 
 ```bash
-cd Project-data-analytics/streamlit/
-streamlit run main.py
+cd analisis-with-python-master\analisis-with-python-master/streamlit/
+streamlit run dashboard.py
 ```
 Atau dengan web berikut:
 https://dk4zemjypwkl78fju7fspk.streamlit.app/
