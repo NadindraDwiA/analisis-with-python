@@ -33,7 +33,8 @@ Masuk ke direktori proyek (Local):
 cd Project-data-analytics/streamlit/
 streamlit run main.py
 ```
-
+Atau dengan web berikut:
+https://dk4zemjypwkl78fju7fspk.streamlit.app/
 
 ## Libraries
 Matplotlip \
